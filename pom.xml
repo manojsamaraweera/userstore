@@ -11,6 +11,7 @@
 	<groupId>com.assesment</groupId>
 	<artifactId>userstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>userstore</name>
 	<description>Demo project for Spring Boot</description>
 
